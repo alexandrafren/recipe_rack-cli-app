@@ -1,0 +1,14 @@
+Program should work like...
+
+#welcomes user
+"Welcome to Recipe Rack!"
+#presents user with options & asks for input
+"What would you like the main of your meal to be? Enter 1-7:"
+"1.Vegan 2.Vegetarian 3.Chicken 4.Beef 5.Pork 6.Fish 7.Random"
+#takes user input and returns the names of recent recipes, as pulled from API
+"1.Recipe Name 1 2. Recipe name 2, etc"
+#asks user for which recipe they would like and gives them more options
+"Recipe Name:
+ Recipe Cook Time:
+ Recipe Ingredients:
+ Recipe Link:"
