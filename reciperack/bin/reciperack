@@ -2,4 +2,3 @@
 require './lib/reciperack'
 
 Reciperack::CLI.new.call
-
