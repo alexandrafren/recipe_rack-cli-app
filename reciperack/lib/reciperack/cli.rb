@@ -4,7 +4,6 @@ class Reciperack::CLI
     puts "Welcome to Recipe Rack!"
     list_meal_options
     menu
-    goodbye
   end
 
   def list_meal_options
@@ -34,6 +33,10 @@ class Reciperack::CLI
       beef meals
     when "7"
       random meals
+    when "exit"
+      puts "Enjoy your meal!"
+    else
+      puts "Error. Choose a number between 1 -7 or type exit."
     end
   end
 
