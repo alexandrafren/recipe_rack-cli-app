@@ -14,3 +14,9 @@ Program should work like...
  Recipe Link:"
 
  What tests should we have?
+ 1. Greets the user
+ 2. Gives user options
+ 3. Reprompts options when user enters < 1 or > 7
+ 4. Recipes only from the last 3 days
+ 5. Chicken does not return fish, etc
+ 6. has an exit options
